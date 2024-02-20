@@ -1,0 +1,42 @@
+.body{
+    background-color: black;
+    padding: 30px;
+}
+.category1{
+    margin-top: 20vh;
+}
+.input{
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    padding-left: 25px;
+    border: none;
+    font-size: 20px;   
+    width: 565px;
+}
+
+.scrollable-container{
+    width: 565px;
+    max-height: 300px;
+    overflow-y: auto;
+    margin-top: 30px;
+    border: 2px solid red;
+}
+
+/* scrolber */
+::-webkit-scrollbar{
+    width: 7px;
+}
+::-webkit-scrollbar-track{
+    background: red;
+}
+::-webkit-scrollbar-thumb{
+    background: yellowgreen;
+}
+#resultsCantainer{
+    cursor: pointer;
+    width: 60%;
+}
+.country-list div:hover{
+    color: red;
+}
