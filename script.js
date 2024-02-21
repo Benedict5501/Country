@@ -237,6 +237,131 @@ const data = [
     Despite its many strengths, Italy faces challenges such as high unemployment, political instability, and a large public debt. However, the Italian people are known for their resilience, creativity, and commitment to their cultural heritage.
     
     Overall, Italy is a country of contrasts, where ancient history and modern innovation coexist amidst breathtaking natural beauty, making it a beloved destination for tourists and a dynamic player on the global stage.`, category: 'Rome', popu:` 58.9 million`},
+    {name:'Peru', img:`https://imgs.search.brave.com/ywwZOXa7D2OweAeKyuSsMvXVlyrbZrgN-wx3NGTmGBg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNDk5/NTk0NjcyL3Bob3Rv/L3BlcnVzLWZsYWcu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PTYteGdPeUhwVVBr/R0tpbXRGaTBVSjRk/TWZ2UzgxUlRadDZR/LXB3OEpfdDg9`, info:`Peru, located in western South America, is a country known for its rich cultural heritage, diverse landscapes, and ancient civilizations. With a population of over 33 million people, Peru is a republic with Lima as its capital and largest city.
+
+    Peru's history is marked by its status as the heart of the Inca Empire, which flourished in the Andean region before the arrival of the Spanish conquistadors in the 16th century. The country is home to numerous archaeological sites, including the iconic Machu Picchu, which attract tourists from around the world.
+    
+    The country's landscape is diverse, featuring the rugged Andes Mountains, the lush Amazon Rainforest, and the arid coastal deserts. Peru's natural beauty is complemented by its rich biodiversity, with the Amazon Basin being one of the most biologically diverse regions on Earth.
+    
+    Peru's cultural heritage is a blend of Indigenous, Spanish, African, and Asian influences, reflected in its cuisine, music, dance, and festivals. Peruvian cuisine, with dishes such as ceviche, lomo saltado, and causa, is renowned worldwide for its unique flavors and ingredients.
+    
+    Economically, Peru is one of the fastest-growing economies in Latin America, with a diverse economy that includes mining, agriculture, tourism, and manufacturing. The country is a major exporter of minerals such as gold, copper, and silver, as well as agricultural products like coffee, cocoa, and quinoa.
+    
+    Despite its economic growth, Peru faces challenges such as poverty, inequality, and environmental degradation. Efforts are underway to address these issues and promote sustainable development, social inclusion, and economic prosperity.
+    
+    Overall, Peru is a country of contrasts, where ancient traditions and modern development coexist amidst breathtaking natural beauty, making it a fascinating and dynamic destination for travelers and a key player in the region.`, category:'Lima', popu:`Over 34.3 million`},
+    {name:' Qatar', img:`https://imgs.search.brave.com/7J_V2atvOKXUjZ-LBQyNt_5rzd2zE7LNXY4bkpcBBpo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzgxLzgyLzc0/LzM2MF9GXzE4MTgy/NzQwOF9raW9hcnNy/MlN0ZFRJVmJraVNX/Z0FTOHNFVjNQNWFl/Zi5qcGc`, info:`Qatar, located on the northeastern coast of the Arabian Peninsula, is a small but affluent country known for its modern skyline, rich cultural heritage, and significant role in global energy markets. With a population of around 2.8 million people, Qatar is a sovereign state ruled by the Al Thani family, with Doha as its capital and largest city.
+
+    Qatar's economy is primarily driven by its vast oil and natural gas reserves, making it one of the wealthiest nations in the world per capita. The country has leveraged its energy resources to develop a modern infrastructure, including skyscrapers, luxury hotels, and world-class sports facilities.
+    
+    Qatar's cultural heritage is deeply rooted in Islamic traditions, with mosques, souqs (markets), and traditional dhows (boats) juxtaposed against the modern skyline. The country is also known for its commitment to education, hosting prestigious international universities and cultural institutions.
+    
+    Despite its wealth and modernity, Qatar faces criticism and scrutiny over issues such as labor rights, human rights, and freedom of expression. The country has undertaken reforms to address some of these concerns, particularly related to labor conditions for migrant workers.
+    
+    Qatar gained global attention for hosting the 2022 FIFA World Cup, which spurred significant infrastructure development and investment in sports facilities. The tournament highlighted Qatar's growing influence in the international sports community.
+    
+    Overall, Qatar is a dynamic and rapidly developing country, balancing its traditional roots with modernity and globalization. As it continues to diversify its economy and navigate geopolitical challenges, Qatar remains a key player in the Middle East and on the global stage.`, category:'Doha', popu:`Over 2.7 million`},
+    {name:'Fiji', img:`https://imgs.search.brave.com/86Y_fI_FNKCIiv4KTcl2OhpVy7Epc6apvfrnt2pqWFA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzgwLzEzLzI3/LzM2MF9GXzI4MDEz/Mjc1Nl9Jd1RWNzRw/MGk3cDUwTTF1T2Fk/MXpjNnM5S3JuUnpE/Wi5qcGc`, info:`Fiji, located in the South Pacific Ocean, is an island nation known for its stunning natural beauty, vibrant culture, and warm hospitality. With a population of around 900,000 people, Fiji is a republic with Suva as its capital and largest city.
+
+    Fiji's landscape is characterized by pristine beaches, crystal-clear waters, and lush tropical rainforests. The country is comprised of over 300 islands, each offering its own unique charm and attractions. Popular destinations include Viti Levu and Vanua Levu, the two largest islands, as well as the stunning Mamanuca and Yasawa island groups.
+    
+    The people of Fiji, known as Fijians, have a rich cultural heritage influenced by Indigenous Fijian, Indian, Chinese, and European traditions. Traditional practices such as meke (traditional dance), kava ceremonies, and lovo feasts are still prevalent, showcasing the country's unique cultural identity.
+    
+    Fiji's marine environment is teeming with biodiversity, including colorful coral reefs, tropical fish, and marine mammals. The country's marine protected areas and conservation efforts aim to preserve its natural heritage and support sustainable tourism practices.
+    
+    Economically, Fiji relies heavily on tourism, agriculture, and fishing. The tourism industry, in particular, is a significant contributor to the country's economy, with visitors drawn to its pristine beaches, water activities, and cultural experiences.
+    
+    Despite its natural beauty and cultural richness, Fiji faces challenges such as vulnerability to natural disasters, climate change, and economic development. However, the people of Fiji are known for their resilience and strong sense of community, working together to overcome challenges and preserve their unique way of life in this island paradise.`, category:'Suva', popu:`Over  936 thousand`},
+    {name:'Jordan', img:`https://imgs.search.brave.com/A2Pfgtvsw6Vg7PVPT1PcIOheUAPpWxWxipNYP1ZWvyY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTgy/ODI2ODk4L3Bob3Rv/L2pvcmRhbi1mbGFn/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1mZ3ZSUTVFbUpR/d3RhLVN1NzVlRHJO/NUV1STVSV0RSQWtH/dm1PY1U0VFFNPQ`, info:`Jordan, located in the Middle East, is a country known for its rich history, cultural heritage, and stunning desert landscapes. With a population of around 10 million people, Jordan is a constitutional monarchy with Amman as its capital and largest city.
+
+    Jordan's history dates back thousands of years, with ancient civilizations such as the Nabateans, Romans, and Byzantines leaving their mark on the region. The country is home to several UNESCO World Heritage Sites, including the ancient city of Petra, the Roman ruins of Jerash, and the desert landscapes of Wadi Rum.
+    
+    The country is celebrated for its cultural heritage, including traditional music, dance, and cuisine. Jordanian cuisine, with its blend of Middle Eastern and Mediterranean flavors, is known for dishes such as falafel, hummus, and mansaf (a traditional Jordanian dish made with lamb and rice).
+    
+    Jordan's landscape is diverse, ranging from the rocky desert terrain of Wadi Rum to the lush valleys of the Jordan River and the Dead Sea, the lowest point on Earth. The country's natural beauty attracts tourists from around the world, who come to explore its ancient ruins, hike its scenic trails, and experience its warm hospitality.
+    
+    Economically, Jordan faces challenges such as high unemployment, water scarcity, and dependence on foreign aid. However, the country has made strides in recent years to diversify its economy and promote sectors such as tourism, information technology, and renewable energy.
+    
+    Despite its challenges, Jordan remains a country of resilience and opportunity, with its people working to preserve their cultural heritage and build a prosperous future for themselves and future generations.`, category:'Amman', popu:`Over 11.5 million`},
+    {name:'Vanuatu', img:`https://imgs.search.brave.com/zyRPD9jQK4IFBQLrU00uBpfBNUeTZUw89C1ggw5eeik/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzUwLzUyLzY0/LzM2MF9GXzUwNTI2/NDI1X0w3N2tsSzdU/eUEzelZVbVVKQzh4/WHFMeXVvdVFHU0ZS/LmpwZw`, info:`Vanuatu is a Pacific island nation located in the South Pacific Ocean, known for its stunning natural beauty, diverse cultures, and vibrant marine life. With a population of around 300,000 people, Vanuatu is an archipelago consisting of 83 islands, with Port Vila as its capital and largest city.
+
+    Vanuatu's landscape is characterized by lush rainforests, volcanic peaks, and pristine beaches with crystal-clear waters. The country is home to several active volcanoes, including Mount Yasur on Tanna Island, which attracts tourists from around the world to witness its spectacular eruptions.
+    
+    The people of Vanuatu, known as Ni-Vanuatu, have a rich cultural heritage influenced by Melanesian, Polynesian, and Micronesian traditions. Traditional practices such as kava drinking ceremonies, sand drawing, and custom dancing are still prevalent, showcasing the country's unique cultural identity.
+    
+    Vanuatu's marine environment is teeming with biodiversity, including colorful coral reefs, tropical fish, and marine mammals. The country's marine protected areas and conservation efforts aim to preserve its natural heritage and support sustainable tourism practices.
+    
+    Economically, Vanuatu relies heavily on agriculture, tourism, and offshore financial services. The tourism industry, in particular, is a significant contributor to the country's economy, with visitors drawn to its pristine beaches, water activities, and cultural experiences.
+    
+    Despite its natural beauty and cultural richness, Vanuatu faces challenges such as vulnerability to natural disasters, climate change, and economic development. However, the people of Vanuatu are known for their resilience and strong sense of community, working together to overcome challenges and preserve their unique way of life in this island paradise.`, category:'Port Vila', popu:`334 thousand`},
+    {name:'Venezuela', img:`https://imgs.search.brave.com/beGgTOb1bA0UrNe1rAU8S95-DjBFNWXy-r6gmeSHDu0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTc3/NzYxMTIwL3Bob3Rv/L2ZsYWctb2YtdmVu/ZXp1ZWxhLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1HLTRW/eEFlQnJuQVktMnRH/XzRUbUVHVlBJc0t3/cTl5OTdRQ1dJbkdU/UUljPQ`, info:`Venezuela, located on the northern coast of South America, is a country known for its rich oil reserves, diverse landscapes, and complex political and economic situation. With a population of over 28 million people, Venezuela is a republic with Caracas as its capital and largest city.
+
+    Venezuela's landscape is diverse, featuring the Andes Mountains in the west, vast plains known as the Llanos, and the Amazon Rainforest in the south. The country also boasts beautiful Caribbean beaches along its northern coast.
+    
+    Economically, Venezuela has long relied on its oil reserves, which are among the largest in the world. However, despite its wealth in natural resources, the country has faced significant economic challenges in recent years, including hyperinflation, shortages of basic goods, and a decline in oil production.
+    
+    Venezuela's political landscape has been marked by instability and polarization. The country has experienced periods of authoritarian rule as well as democratic governance, with ongoing political unrest and disputes over power and governance.
+    
+    Socially, Venezuela has a diverse population with a rich cultural heritage influenced by Indigenous, African, and European traditions. Venezuelan cuisine, music, and festivals reflect this cultural diversity and are celebrated both within the country and internationally.
+    
+    Despite its challenges, Venezuela remains a country of natural beauty and cultural richness, with a resilient population striving to overcome economic and political obstacles and build a better future for themselves and their country.`, category:'Caracas', popu:`Over 28.8 million`},
+    {name:'Vietnam', img:`https://imgs.search.brave.com/IdiyJUVHcNsWsB9_l_-ZtJxRrNOxxal5mpXnyZVjQgw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvOTIy/OTIzMjc2L3Bob3Rv/L2ZsYWctb2Ytdmll/dG5hbS5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9MDE5TGNY/My1yaUh4ZFVLNl91/d1g2Tmt0TGxNTXRZ/QUJvSzNzT0ZFRHZp/RT0`, info:`Vietnam, located in Southeast Asia, is a country known for its rich history, vibrant culture, and stunning natural landscapes. With a population of over 97 million people, Vietnam is a socialist republic with Hanoi as its capital and Ho Chi Minh City as its largest city.
+
+    Vietnam's history is marked by periods of colonization, independence struggles, and war, including French colonial rule, the Vietnam War, and the reunification of North and South Vietnam in 1976. Today, Vietnam is a rapidly developing country with a growing economy and increasing integration into the global community.
+    
+    The country is celebrated for its cultural heritage, including ancient temples, pagodas, and traditional villages. Vietnamese cuisine, with its fresh ingredients, bold flavors, and regional specialties, is renowned worldwide, while traditional art forms such as water puppetry and ao dai (traditional dress) reflect Vietnam's artistic and cultural traditions.
+    
+    Vietnam's landscape is diverse, featuring lush rice paddies in the Mekong Delta, stunning limestone karsts in Ha Long Bay, and beautiful beaches along its coastline. The country's national parks and nature reserves are home to diverse wildlife and ecosystems, making Vietnam a paradise for nature lovers and outdoor enthusiasts.
+    
+    Economically, Vietnam has experienced rapid growth and development in recent decades, driven by industrialization, export-oriented manufacturing, and a growing services sector. The country is also known for its agricultural exports, including rice, coffee, and seafood.
+    
+    Despite its progress, Vietnam faces challenges such as environmental degradation, urbanization, and income inequality. However, the Vietnamese people are known for their resilience, hard work, and determination to build a better future for themselves and their country.
+    
+    Overall, Vietnam is a country of contrasts, where ancient traditions and modern innovation coexist amidst breathtaking natural beauty, making it a fascinating and dynamic destination for travelers and a rising star on the global stage.`, category:'Hanoi', popu:`Over 98.8 million`},
+    {name:'Württemberg', img:`https://imgs.search.brave.com/W6nsWEt4imgk_Wj7O_DCfU3pwAZ58TzEHB2kD9oxCAw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE0L0ZsYWdnZV9L/JUMzJUI2bmlncmVp/Y2hfVyVDMyVCQ3J0/dGVtYmVyZy5zdmc.svg`, info:`Württemberg was a historical region in southwestern Germany, known for its cultural and historical significance. It was originally a duchy and later a kingdom within the Holy Roman Empire, and it played a significant role in German history.
+
+    The region was characterized by its picturesque landscapes, including vineyards, forests, and rolling hills. It was also known for its rich cultural heritage, with contributions to literature, music, and architecture.
+    
+    Württemberg's capital was Stuttgart, which became a center of commerce, culture, and industry. The city was known for its elegant palaces, including the Old Castle and the New Palace, as well as its thriving arts scene.
+    
+    In the 19th century, Württemberg became part of the Kingdom of Württemberg, which was eventually incorporated into the German Empire in 1871. After World War II, the region became part of the state of Baden-Württemberg, which was formed by the merger of Württemberg-Baden, Baden, and Württemberg-Hohenzollern.
+    
+    Today, the legacy of Württemberg lives on in the cultural heritage of the region, with historical sites, museums, and festivals celebrating its rich history and traditions.`, category:'Stuttgart', popu:`Over 10.8 million`},
+    {name:'Yemen', img:`https://imgs.search.brave.com/pPZYFOqia17loS2WG2XsFSd37OyEghiNcpldUT7jIK0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmxhZ3NvbmxpbmUu/aXQvdXBsb2Fkcy8y/MDE2LTYtNi8zMTUt/MjE1L3llbWVuLmpw/Zw`, info:`Yemen, located in the southern part of the Arabian Peninsula, is a country known for its ancient history, diverse culture, and challenging geopolitical landscape. With a population of over 30 million people, Yemen is one of the poorest countries in the Arab world.
+
+    The capital city is Sana'a, one of the oldest continuously inhabited cities in the world and a UNESCO World Heritage Site known for its unique architecture and vibrant souks. Other major cities include Aden, Taiz, and Hodeidah, each with its own distinct cultural and historical significance.
+    
+    Yemen's history is rich and diverse, with influences from ancient civilizations such as the Sabaeans, Himyarites, and Aksumites. The country was also a center of trade and culture during the medieval period, known for its production of frankincense and myrrh.
+    
+    Yemen's landscape is characterized by rugged mountains, deserts, and coastline along the Red Sea and the Arabian Sea. The country's natural beauty is complemented by its cultural heritage, including ancient ruins, traditional villages, and vibrant festivals.
+    
+    Economically, Yemen has faced challenges such as poverty, unemployment, and political instability. The country's economy is heavily dependent on agriculture, particularly the production of coffee, qat (a mild narcotic), and livestock.
+    
+    Yemen has also been plagued by conflict and humanitarian crises in recent years, including a civil war that began in 2014 and ongoing conflict with terrorist groups such as Al-Qaeda in the Arabian Peninsula (AQAP) and the Islamic State (IS). The conflict has resulted in widespread displacement, food insecurity, and humanitarian suffering.
+    
+    Despite its challenges, Yemen remains a country with a rich cultural heritage and resilient people, striving to overcome adversity and build a better future for its citizens.`, category:'Sanaa', popu:`Over 35 million`},
+    {name:'Zambia', img:`https://imgs.search.brave.com/_TWapGGVVW61LpCIHekyKydxbMUqcNpPkrCsqSjPk20/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzUwLzUyLzY3/LzM2MF9GXzUwNTI2/NzU5X3JGT2loOWNK/MjdnNUVrOWVmQnVl/U3U4dmdKY0lmakZN/LmpwZw`, info:`Zambia, located in Southern Africa, is a landlocked country known for its rich natural resources, diverse wildlife, and vibrant culture. With a population of over 18 million people, Zambia is bordered by several countries including the Democratic Republic of the Congo, Tanzania, Malawi, Mozambique, Zimbabwe, Botswana, Namibia, and Angola.
+
+    The capital city of Zambia is Lusaka, a bustling urban center known for its lively markets, vibrant nightlife, and cultural attractions. Other major cities include Kitwe, Ndola, and Livingstone, the gateway to the famous Victoria Falls.
+    
+    Zambia's landscape is characterized by diverse ecosystems, including the majestic Victoria Falls, vast plains, lush forests, and the iconic Zambezi River. The country's national parks, such as South Luangwa and Kafue, are renowned for their abundant wildlife, offering opportunities for safari adventures and eco-tourism.
+    
+    Zambia has a rich cultural heritage shaped by its diverse ethnic groups, including the Bemba, Tonga, Lozi, and Lunda peoples. Traditional music, dance, and ceremonies are an integral part of Zambian culture, reflecting the country's history and traditions.
+    
+    Economically, Zambia is endowed with abundant natural resources, including copper, cobalt, and other minerals. Agriculture is also a significant sector, with maize, tobacco, and sugarcane being important crops. However, the country faces challenges such as poverty, unemployment, and economic inequality.
+    
+    Despite its challenges, Zambia is a country of resilience and potential, with its people working towards sustainable development and economic growth. Efforts are underway to attract investment, improve infrastructure, and promote tourism, showcasing Zambia's natural beauty and cultural richness to the world.`, category:'Lusaka', popu:`20.5 million`},
+    {name:'Zimbabwe', img:`https://imgs.search.brave.com/b2cwpuJrau-un9G071bB5-JyX8zdTZONHpOwXHmaMbI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzYyLzE5Lzc2/LzM2MF9GXzYyMTk3/NjU2X0tmODNSZmhS/STBtQll2VXdUcHUy/cU9uNVB5UFZrQ1h1/LmpwZw`, info:`Zimbabwe, located in southern Africa, is a country known for its diverse landscapes, rich cultural heritage, and tumultuous history. With a population of over 14 million people, Zimbabwe is a landlocked country bordered by South Africa, Botswana, Zambia, and Mozambique.
+
+    The capital city is Harare, a bustling metropolis known for its vibrant markets, lively arts scene, and colonial architecture. Other major cities include Bulawayo and Mutare, each offering their own unique blend of culture and history.
+    
+    Zimbabwe's cultural heritage is diverse, with influences from Indigenous peoples, European colonizers, and neighboring African nations. The country's traditional music, dance, and art forms reflect this cultural richness, and events like the Harare International Festival of the Arts showcase Zimbabwe's creative talents.
+    
+    The country's landscape is characterized by rolling plains, lush forests, and impressive natural wonders such as Victoria Falls, one of the largest waterfalls in the world. Zimbabwe's national parks, including Hwange and Mana Pools, are home to a wide variety of wildlife, making it a popular destination for safaris and eco-tourism.
+    
+    Economically, Zimbabwe has faced challenges in recent decades, including hyperinflation, political instability, and economic sanctions. Agriculture, mining, and tourism are key sectors of the economy, but the country continues to grapple with unemployment and poverty.
+    
+    Despite its challenges, Zimbabwe is a country of resilience and hope, with its people working towards a brighter future. Efforts are underway to promote sustainable development, attract investment, and strengthen democratic institutions, paving the way for a more prosperous and stable Zimbabwe.`, category:'Harare', popu:`Over 15.9 million`},
 ]
 
 
