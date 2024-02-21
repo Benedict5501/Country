@@ -1,10 +1,9 @@
 .body{
     background-color: black;
     padding: 30px;
+    overflow: hidden;
 }
-.category1{
-    margin-top: 20vh;
-}
+
 .input{
     border-radius: 20px;
     background-color: red;
@@ -34,9 +33,28 @@
     background: yellowgreen;
 }
 #resultsCantainer{
-    cursor: pointer;
     width: 60%;
 }
 .country-list div:hover{
     color: red;
+}
+#count{
+    background-color: black;
+    border: 2px double red;
+    overflow-y: auto;
+    max-height: 400px;
+    padding-top: 15px;
+}
+
+@media (max-width: 759px) {
+    .scrollable-container{
+        width: 345px;
+    }
+    .search{
+        width: 345px;
+    }
+    .input{
+        width: 345px;
+    }
+    
 }
