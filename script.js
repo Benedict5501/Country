@@ -174,6 +174,102 @@ const data = [
     Economically, Norway is prosperous, thanks in part to its significant oil and gas reserves. The country has a robust welfare system and is known for its commitment to social equality and inclusive policies.
     
     Despite its strengths, Norway faces challenges such as managing its oil wealth, addressing environmental concerns, and navigating the complexities of global economic dynamics. However, Norway continues to be a role model for sustainable development and a sought-after destination for those seeking natural beauty, cultural richness, and a high quality of life.`, category: ' Oslo', popu:`Over 5.4 million`},
+    {name:'Thailand', img:`https://imgs.search.brave.com/dMlRp8mRS8U20Of3BFnuQyyiEXEl7NFrHiIImDrGQLA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzA3LzE5LzUy/LzM2MF9GXzEwNzE5/NTI1Ml9nZkNmT25D/TFl2OFRLeGxLcFJC/MEl6YnIyTk5FZXBK/QS5qcGc`, info:`Thailand, located in Southeast Asia, is a country known for its rich cultural heritage, vibrant cities, and stunning natural landscapes. With a population of over 69 million people, Thailand is a constitutional monarchy with Bangkok as its capital and largest city.
+
+    Thailand's history is steeped in ancient traditions, with influences from various civilizations including the Khmer Empire, Ayutthaya Kingdom, and Sukhothai Kingdom. The country is home to numerous historical sites and temples, such as the iconic Wat Phra Kaew and Wat Pho in Bangkok.
+    
+    The country's landscape is diverse, featuring lush tropical forests, pristine beaches, and picturesque mountains. Thailand's natural beauty is complemented by its vibrant cities, bustling markets, and vibrant street food scene, making it a popular destination for tourists from around the world.
+    
+    Thailand's cultural heritage is reflected in its cuisine, art, and festivals. Thai cuisine is renowned for its bold flavors and aromatic spices, while traditional Thai dance, music, and crafts showcase the country's artistic traditions.
+    
+    Economically, Thailand is a major player in the region, with a diverse economy that includes agriculture, manufacturing, tourism, and services. The country is known for its export-oriented industries, particularly in electronics, automotive, and textiles.
+    
+    Despite its economic success, Thailand faces challenges such as political instability, income inequality, and environmental degradation. Efforts are underway to address these issues and promote sustainable development, social cohesion, and economic growth.
+    
+    Overall, Thailand is a country of contrasts, where ancient traditions and modern development coexist amidst breathtaking natural beauty, making it a fascinating and dynamic destination for travelers and a key player in the region.`,  category:'Bangkok', popu:`71.8 Million`},
+    {name:`Togo`, img:`https://imgs.search.brave.com/UTwIXM-HcsHVJ5U1qRPZlWw7QQ2sODdvyuHxx7-cwY0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzUwLzUyLzU0/LzM2MF9GXzUwNTI1/NDkwX0RtbVpKSUxY/QTYzM2JWTHZvOHBY/Vjg2ZXp2UmpGQnZJ/LmpwZw`, info:`Togo, located in West Africa, is a small yet culturally diverse country known for its vibrant markets, beautiful beaches, and rich traditional culture. With a population of over 8 million people, Togo is a republic with Lomé as its capital and largest city.
+
+    Togo's history is characterized by its colonial past, having been ruled by various European powers before gaining independence from France in 1960. The country is home to several ethnic groups, each with its own distinct traditions, languages, and cultural practices.
+    
+    The landscape of Togo is diverse, ranging from coastal plains along the Gulf of Guinea to plateaus and hills in the interior. The country's natural beauty is highlighted by its palm-fringed beaches, lush forests, and scenic waterfalls.
+    
+    Togo's cultural heritage is celebrated through its music, dance, and festivals. Traditional dances such as the Atsia and Agbadza are popular, while festivals like the Evala wrestling festival showcase the country's rich cultural traditions.
+    
+    Economically, Togo faces challenges such as poverty, unemployment, and limited access to basic services. The country's economy is primarily based on agriculture, with subsistence farming being the main livelihood for much of the population.
+    
+    Despite its challenges, Togo is working towards sustainable development and economic growth through initiatives to improve infrastructure, education, and healthcare. Efforts are also underway to promote tourism and showcase Togo's natural beauty and cultural richness to the world.
+    
+    Overall, Togo is a country with a rich cultural heritage and natural beauty, where traditional customs and modern influences coexist, making it a unique and vibrant destination for travelers interested in exploring West African culture and landscapes.`, category:'Lomé', popu:`Over 9 Million`},
+    {name:'Turkmenistan', img:`https://imgs.search.brave.com/8lckEASHKhQhT2fyK8RLtFlNVaBFXSfq8wvV1HqD2d0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzAxLzc4LzU2/LzM2MF9GXzMwMTc4/NTY3Ml9EWVo4WVpo/WmlaUkdERDlaeUc4/VHdnTGJKTUtodmJp/eS5qcGc`, info:`Turkmenistan, located in Central Asia, is a country known for its vast desert landscapes, rich cultural heritage, and authoritarian government. With a population of around 6 million people, Turkmenistan is a presidential republic with Ashgabat as its capital and largest city.
+
+    The country's history is marked by its position along the ancient Silk Road, which facilitated trade and cultural exchange between Europe and Asia. Turkmenistan is home to several UNESCO World Heritage Sites, including the ancient city of Merv and the Kunya-Urgench.
+    
+    Turkmenistan's landscape is dominated by the Karakum Desert, which covers much of the country's territory. The desert is interspersed with oases and fertile valleys along the Amu Darya River, providing vital water sources for agriculture and human settlement.
+    
+    Turkmenistan's cultural heritage is influenced by its Turkic roots and Islamic traditions. The country is known for its traditional crafts, such as carpet weaving and jewelry making, as well as its colorful festivals and celebrations.
+    
+    Economically, Turkmenistan is heavily reliant on its natural gas reserves, which are among the largest in the world. The country's economy is dominated by the state, with limited opportunities for private enterprise and foreign investment.
+    
+    Despite its natural resources, Turkmenistan faces challenges such as political repression, limited freedom of expression, and economic stagnation. The government maintains tight control over all aspects of society, leading to limited civil liberties and human rights abuses.
+    
+    Overall, Turkmenistan is a country with a rich cultural heritage and natural beauty, but its authoritarian government and closed political system pose challenges to its development and engagement with the international community.`, category:'Ashgabat', popu:`6.342 million`},
+    {name:'Kingdom of the Two Sicilies', img:`https://imgs.search.brave.com/c_pt98xm5WTVL2rinkwDeTs99jqSiV4XcW421BxJLQ0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/ZmxhZ3NvbmxpbmUu/aXQvdXBsb2Fkcy8y/MDE2LTYtNi80MjAt/MjcyL3JlZ25vLWRl/bGxlLWR1ZS1zaWNp/bGllLTE3MzgtMTg0/OC5qcGc`, info:`The Kingdom of the Two Sicilies was a historical state in Southern Italy that existed from 1816 to 1861. It was formed by the unification of the Kingdom of Sicily and the Kingdom of Naples, which were previously separate entities. The capital of the kingdom was initially Naples.
+
+    The kingdom was ruled by the Bourbon dynasty, with King Ferdinand I being the first monarch. The Bourbon rulers faced challenges during their reign, including economic difficulties, political unrest, and social inequality.
+    
+    The Kingdom of the Two Sicilies was known for its cultural richness, with Naples being a vibrant center of art, music, and literature during this period. However, the kingdom's economy struggled due to issues such as agricultural inefficiency and corruption.
+    
+    The kingdom's existence came to an end in 1861 when it was annexed by the Kingdom of Sardinia, which later became the Kingdom of Italy under King Victor Emmanuel II. The annexation was part of the process of Italian unification, known as the Risorgimento, which aimed to unify the various states and regions of the Italian peninsula into a single nation-state.
+    
+    Despite its relatively short existence, the Kingdom of the Two Sicilies played a significant role in the history of Italy and Southern Europe, leaving behind a legacy of cultural achievements and political struggles.`, category:'Naples', popu:``},
+    {name:'Texas', img:`https://imgs.search.brave.com/D-OEfIJbvYC8jf4iZoUmPNhpMfezu91V4ZV47U3MYVA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzkwLzYwLzM2/LzM2MF9GXzI5MDYw/MzYxMF8wdHBZWGlV/Q0MwNlB6MGpobXJm/bGNEQlZhN3o5cWFn/aC5qcGc`, info:`Texas is a state located in the southern United States, known for its rich history, diverse culture, and vast landscapes. With a population of over 29 million people, Texas is the second-largest state in terms of both area and population.
+
+    The state's history is deeply intertwined with its unique identity as a former independent republic before joining the United States in 1845. Texas played a significant role in the American Civil War and has a storied past involving Native American tribes, Spanish explorers, Mexican settlers, and Anglo-American pioneers.
+    
+    Texas is celebrated for its cultural diversity, influenced by its history of immigration and its status as a border state. The state boasts a vibrant blend of Mexican, Texan, and American cultures, evident in its cuisine, music, festivals, and traditions.
+    
+    The landscape of Texas is diverse, featuring expansive plains, rolling hills, rugged canyons, and coastal marshes. The state is also home to iconic natural landmarks such as the Guadalupe Mountains, Big Bend National Park, and the Gulf Coast beaches.
+    
+    Economically, Texas is a powerhouse, with a diverse economy driven by industries such as oil and gas, agriculture, technology, healthcare, and aerospace. The state is a leader in energy production, particularly in oil, natural gas, and renewable energy sources like wind and solar power.
+    
+    Texas is also known for its renowned educational institutions, including the University of Texas at Austin and Texas A&M University, as well as its professional sports teams, including the Dallas Cowboys and Houston Rockets.
+    
+    Overall, Texas is a dynamic and culturally rich state with a proud heritage and a promising future, attracting residents and visitors alike with its unique blend of history, culture, and natural beauty.`, category:'Austin', popu:`Over 29.53 million`},
+    {name:'Oman', img:`https://imgs.search.brave.com/-sucjelVwgkiT3MAkmAOYDGUkQJRJFSZIhZzcvl20ts/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzYyLzE5LzY3/LzM2MF9GXzYyMTk2/NzA5X3VQQ3dqa2ZI/TDhLOXFxNWwwSTB1/R3VLT2FBcVNyUjhi/LmpwZw`, info:`Oman, located on the southeastern coast of the Arabian Peninsula, is a country known for its rich history, stunning landscapes, and cultural heritage. With a population of around 5 million people, Oman is a sultanate with Muscat as its capital and largest city.
+
+    Oman's history dates back thousands of years, with influences from various civilizations such as the ancient Sumerians, Persians, and Portuguese. The country is home to numerous historical sites, forts, and archaeological treasures, including the UNESCO World Heritage Site of Bahla Fort and the ancient city of Nizwa.
+    
+    The landscape of Oman is diverse, featuring rugged mountains, desert dunes, and pristine beaches along the Arabian Sea. The country's natural beauty is highlighted by its stunning wadis (valleys), including Wadi Shab and Wadi Bani Khalid, which attract visitors with their crystal-clear pools and waterfalls.
+    
+    Oman's cultural heritage is celebrated through its traditional music, dance, and festivals. Omani cuisine, with dishes such as shuwa (slow-cooked meat) and halwa (a sweet dessert), reflects the country's diverse influences and culinary traditions.
+    
+    Economically, Oman is known for its oil and gas reserves, which have driven economic growth and development in recent decades. The country is also focusing on diversifying its economy through investments in tourism, manufacturing, and infrastructure development.
+    
+    Despite its modernization and economic growth, Oman remains rooted in its cultural traditions and values. The country is known for its hospitality, tolerance, and peaceful coexistence among its diverse population.
+    
+    Overall, Oman is a country of contrasts, where ancient traditions and modern development coexist amidst breathtaking natural beauty, making it a fascinating and welcoming destination for travelers seeking history, culture, and adventure.`,  category:'Muscat', popu:`Over 4.52 million`},
+    {name:'North Macedonia', img:`https://imgs.search.brave.com/YmtYk1tsbM-L9DdoMAIUeVuj0Zm6egvUtF2_xS7tUrE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTU3/NjI4NTQ5L3Bob3Rv/L21hY2Vkb25pYW4t/ZmxhZy5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9M1g5Tk50/ZHNJdGI1SzZPaElP/UnZRQkVqRFl5Nmk0/dFpTS0kyNll2WXNS/cz0`, info:`North Macedonia, formerly known as the Republic of Macedonia, is a landlocked country located in the Balkan Peninsula of Southeast Europe. With a population of around 2 million people, North Macedonia is bordered by Kosovo, Serbia, Bulgaria, Greece, and Albania.
+
+    The country's history is deeply rooted in ancient civilizations, with influences from the Roman, Byzantine, and Ottoman empires. North Macedonia is known for its rich cultural heritage, with UNESCO World Heritage Sites such as the Ohrid region, known for its medieval churches and pristine lake.
+    
+    The landscape of North Macedonia is diverse, featuring mountain ranges, lakes, rivers, and fertile valleys. The country's natural beauty is complemented by its picturesque villages, historic towns, and vibrant bazaars.
+    
+    North Macedonia's cultural heritage is celebrated through its music, dance, and festivals. Traditional Macedonian folk music, with its distinct rhythms and melodies, is a source of national pride, while traditional dances such as the oro are performed at weddings and festivals.
+    
+    Economically, North Macedonia faces challenges such as high unemployment, poverty, and political instability. The country's economy is primarily based on services, agriculture, and manufacturing, with efforts underway to attract foreign investment and promote economic growth.
+    
+    Despite its challenges, North Macedonia is a country with a rich cultural heritage and friendly people. The country's diverse landscapes, historic sites, and warm hospitality make it a unique and fascinating destination for travelers interested in exploring the Balkans.`, category:'Skopje', popu:`Over 2 Million`},
+    {name:'south sudan', img:`https://imgs.search.brave.com/TrRa-4PKjMklcQYmA-4WGSfTiLOuSt9VPZ0a5XDuUlI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE4/MDIyMzIwMi9waG90/by9zb3V0aC1zdWRh/bi1mbGFnLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz0xVGZw/TkZES0w4NjN0ZEgz/U2RieFV0TnUxYWta/UDFQSEZ0RG12Q2Zi/dzhjPQ`, info:`South Sudan, located in East-Central Africa, is the youngest country in the world, gaining independence from Sudan in 2011 after decades of civil war. With a population of around 12 million people, South Sudan is a republic with Juba as its capital and largest city.
+
+    The country's history is marked by conflict, including two civil wars with Sudan prior to gaining independence. Despite achieving independence, South Sudan has continued to face internal conflicts, ethnic violence, and political instability.
+    
+    South Sudan's landscape is diverse, featuring vast savannas, dense tropical forests, and the White Nile River, which flows through the country. The country is rich in natural resources, including oil, which has fueled both economic development and conflict.
+    
+    The people of South Sudan come from diverse ethnic backgrounds, with the Dinka and Nuer being the largest ethnic groups. Traditional cultures and customs are an integral part of daily life, with cattle-raising and agriculture being central to many communities.
+    
+    Economically, South Sudan faces challenges such as underdevelopment, poverty, and a lack of infrastructure. The country's economy is heavily dependent on oil revenue, with limited diversification into agriculture and other sectors.
+    
+    Despite its challenges, South Sudan remains a country with potential for growth and development. Efforts are underway to promote peace, stability, and economic prosperity through international assistance and initiatives aimed at reconciliation and nation-building. However, the road to stability and prosperity remains uncertain, and the people of South Sudan continue to face significant challenges in their quest for peace and prosperity.`, category:'Juba', popu:`Over 11.2 Million`},
     {name: 'Moocco', img:`https://imgs.search.brave.com/-G0PDBjtTd923W9y5KsNcqX1fMYdYKO09wFz0jDKIWc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTgy/ODIyNTIwL3Bob3Rv/L21vcm9jY28tZmxh/Zy5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9S0ctZUoxZjlN/dEYtbllCSE9VYXFl/UHcxQmFJWmxWWjVX/T3QwWXBRbVpWQT0`, info:`Morocco, located in North Africa, is a country known for its rich history, diverse culture, and vibrant landscapes. With a population of over 36 million people, Morocco is a constitutional monarchy with a parliamentary system.
 
     The capital city is Rabat, while other major cities such as Casablanca, Marrakech, and Fes showcase the country's cultural and historical richness. Morocco is renowned for its traditional architecture, intricate mosaics, and bustling markets known as souks.
